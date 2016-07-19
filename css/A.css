@@ -1,0 +1,46 @@
+body{
+  background-color: #D0E0C0;
+}
+
+#main{
+  width: 960px;
+  margin: 40px auto;
+  padding: 40px 80px;
+  border: green 1px solid;
+  background-color: white;
+}
+
+photo{
+float: left;
+margin-right: 30px;
+}
+
+.curry_picture:after{
+  content:"";
+  clear: both;
+  display: block;
+}
+
+.explanation{
+  float: left;
+  width: 468px;
+}
+
+dt{
+  clear: left;
+  float: left;
+  font-weight: bold;
+}
+
+.btn{
+  -webkit-appearance: none;
+  margin: 5px;
+}
+
+#ingredient{
+  border: 2px solid lightcoral;
+}
+
+th, td{
+  border: 1px solid lightcoral;
+}
