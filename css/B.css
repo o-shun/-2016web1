@@ -1,0 +1,7 @@
+body{
+  background-image: url(../turaiippai.jpg);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 5% 5%, cover;
+  background-color: lightgrey;
+  margin: 5px;
+}
