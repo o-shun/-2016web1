@@ -32,11 +32,6 @@ dt{
   font-weight: bold;
 }
 
-.btn{
-  -webkit-appearance: none;
-  margin: 5px;
-}
-
 #ingredient{
   border: 2px solid lightcoral;
 }
